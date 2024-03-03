@@ -73,4 +73,4 @@ Atualização de Informações:
 - [ ] Desenvolvedores e projetos devem ter a capacidade de atualizar suas informações cadastradas.
 Remoção de Desenvolvedores e Projetos:
 
-- [ ]Desenvolvedores e projetos devem poder ser removidos da plataforma, garantindo a integridade dos dados relacionados.
+- [ ] Desenvolvedores e projetos devem poder ser removidos da plataforma, garantindo a integridade dos dados relacionados.
