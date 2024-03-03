@@ -67,7 +67,7 @@ Bem-vindo ao DevHub! O DevHub é uma plataforma para gerenciar desenvolvedores e
 - [ ] Um único endereço de e-mail não pode ser usado para cadastrar mais de um desenvolvedor.
 Associação de Desenvolvedores a Projetos:
 
-- [ ]Cada projeto deve ter pelo menos um desenvolvedor associado.
+- [ ] Cada projeto deve ter pelo menos um desenvolvedor associado.
 Atualização de Informações:
 
 - [ ] Desenvolvedores e projetos devem ter a capacidade de atualizar suas informações cadastradas.
